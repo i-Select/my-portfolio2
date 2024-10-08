@@ -1,0 +1,42 @@
+footer{
+    text-align: center;
+    padding: 5px;
+    background-color: blueviolet;
+    color: white;
+}
+
+.name{
+    color: blueviolet;
+}
+
+.work{
+    color: blueviolet;
+}
+
+.top{
+    color: blueviolet;
+}
+
+.soft{
+    color: blueviolet;
+}
+
+.educ{
+    color: blueviolet;
+}
+.sum{
+    color: blueviolet;
+}
+.inpu a{
+float: none;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+color: black;
+font-family: arial;
+font-weight: bold;
+}
+.inpu a:hover{
+    color: blueviolet;
+
+}
